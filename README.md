@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazan Özmert</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-
+<img width='400' align='right' alt='Conding' src='https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif'></img>
 - 📫 How to reach me **ramazanozmert3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
